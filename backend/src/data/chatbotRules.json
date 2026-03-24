@@ -1,0 +1,30 @@
+[
+  {
+    "keywords": ["attendance", "class", "present"],
+    "response": "Attendance is marked only by admin. You can view your attendance history in the attendance section."
+  },
+  {
+    "keywords": ["chanting", "rounds", "japa"],
+    "response": "You can add your daily chanting rounds from the chanting API and track your total rounds."
+  },
+  {
+    "keywords": ["book", "reading", "read"],
+    "response": "You can add book reading entries with date and book name."
+  },
+  {
+    "keywords": ["trip", "event", "travel"],
+    "response": "Check trips and events for schedules, locations, and contact details."
+  },
+  {
+    "keywords": ["notification", "notice", "announcement"],
+    "response": "All temple updates are posted in notifications."
+  },
+  {
+    "keywords": ["gallery", "photo", "video"],
+    "response": "Gallery has temple images and videos uploaded by admin."
+  },
+  {
+    "keywords": ["content", "link", "lecture"],
+    "response": "You can find spiritual content links in the content section."
+  }
+]
